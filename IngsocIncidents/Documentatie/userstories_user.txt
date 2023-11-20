@@ -1,0 +1,13 @@
+userstories
+
+Als melder wil ik:
+-Een makkelijk te begrijpen app hebben 
+waar alles makkelijk te vinden en te begrijpen is
+
+-Niet te veel hoeven nadenken over wat ik waar moet 
+invullen (maak formulieren straight-forward)
+
+-Mijn bestaande klachten inzien en mogelijk aanpassen
+
+-Een confirmatie krijgen in de app dat een klacht 
+is verwerkt

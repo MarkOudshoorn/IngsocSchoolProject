@@ -1,0 +1,46 @@
+:root {
+    font-family: 'Helvetica', sans-serif;
+    font-weight: bold;
+}
+
+body {
+    background-color: #2b2b2b;
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica', sans-serif;
+    font-weight: bold;
+}
+
+#IngsocLogo {
+    display: inline-block;
+    background-color: black;
+    margin-left: 47.5vw;
+    width: 5vw;
+    height: 140px;
+}
+
+#IngsocLogo-img {
+    margin-top: 80%;
+    width: 100%;
+    height: 50%;
+}
+
+#Start_menu {
+    background-color: black;
+    border: 2px solid #a40204;
+    width: 20vw;
+    height: 60vh;
+    margin-top: 10vh;
+    margin-left: 40vw;
+}
+
+#Start_button1 {
+    color: white;
+    font-family: 'Helvetica', sans-serif;
+    font-weight: bold;
+    background-color: #a40204;
+    width: 60%;
+    height: 10%;
+    margin-left: 20%;
+    margin-top: 10%;
+}
